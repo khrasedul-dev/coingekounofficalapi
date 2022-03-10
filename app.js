@@ -22,14 +22,14 @@ app.get('/',(req,res)=>{
                 let keys = [
                   'empty',
                   'Rank',
-                  'Coin Name',
+                  'Coin_Name',
                   'empty',
                   'Price',
                   '1h',
                   '1d',
                   '7d',
-                  '24h Volume',
-                  'Market Cap',
+                  '24h_Volume',
+                  'Market_Cap',
                   'empty'
                 ]
 
